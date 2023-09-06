@@ -5,8 +5,17 @@
 }
 
 body {
-    font-family: "Fraunces", serif;
     background-color:hsl(30, 38%, 92%);
+}
+
+.attribution {
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.container {
+    font-family: "Fraunces", serif;
     min-height: 100vh;
     display: flex;
     justify-content: center;
